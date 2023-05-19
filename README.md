@@ -1,6 +1,6 @@
 <h1>Hi, I'm Gabe! <br/><a href="https://gabeholcomb.com">Webdev</a>, <a href="https://www.linkedin.com/in/gabeholcomb/">Cybersecurity Professional</a>
 
-  <h2> Cyber SOC Project <h2>
+  <h2> Azure Cloud Projects <h2>
     <a href ="https://github.com/gabeholcomb/Azure-Soc/blob/main/README.md">SOC Project</a>
 
 <h2> 🤳 Connect with me:</h2>
